@@ -12,3 +12,4 @@ pnpm i
 
 ### First file
 
+[Assistants API](https://platform.openai.com/docs/api-reference/assistants)
