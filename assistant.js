@@ -21,4 +21,4 @@ async function createAssistant() {
   }
 }
 
-// createAssistant();
+createAssistant();
